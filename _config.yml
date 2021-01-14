@@ -3,3 +3,6 @@ title: Leren leren
 description: Hoe kan je leren studeren?
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://bbroeckx.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+aux_links:
+  "Exploring The Black Box":
+    - "//exploringtheblackbox.org"
