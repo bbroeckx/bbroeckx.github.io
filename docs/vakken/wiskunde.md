@@ -6,11 +6,13 @@ has_children: true
 Parent: vakken
 permalink: docs/vakken/wiskunde
 ---
- 
 
 # Hoe studeer je wiskunde en wetenschappen?
- Wiskunde en wetenschappen zijn een kunde, geen kunst. Dat betekent dat iedereen die zich voldoende inzet, wiskunde en wetenschappen kan leren. Het gaat over de inspannning die je bereid bent om te doen.
- 
+{: .no_toc }
+
+Wiskunde en wetenschappen zijn een kunde, geen kunst. Dat betekent dat iedereen die zich voldoende inzet, wiskunde en wetenschappen kan leren. Het gaat over de inspannning die je bereid bent om te doen.
+{: .fs-6 .fw-300 }
+
  ## Theorie
  ### Theorie als basis voor begrip
  Theorie heb je nodig om de oefeningen te begrijpen en vaak ook - maar niet altijd - om de oefeningen uit te kunnen voeren. Dus wanneer je theorie leert als basis voor begrip van een wiskundig of wetenschappelijk idee, is het belangrijk dat je die theorie ontdekt via begrijpend lezen (LINK). Je einddoel hier is dat je die theorie kan gebruiken om mee na te denken.
