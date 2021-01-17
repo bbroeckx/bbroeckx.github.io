@@ -1,4 +1,13 @@
- # Hoe studeer je wiskunde en wetenschappen?
+---
+layout: default
+title: Hoe studeer je wiskunde en wetenschappen
+nav_order: 6
+has_children: true
+permalink: docs/wiskunde
+---
+ 
+
+# Hoe studeer je wiskunde en wetenschappen?
  Wiskunde en wetenschappen zijn een kunde, geen kunst. Dat betekent dat iedereen die zich voldoende inzet, wiskunde en wetenschappen kan leren. Het gaat over de inspannning die je bereid bent om te doen.
  
  ## Theorie
