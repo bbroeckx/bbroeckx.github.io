@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Hoe studeer je wiskunde en wetenschappen
-nav_order: 1
+nav_order: 6
 has_children: true
 Parent: vakken
 permalink: docs/vakken/wiskunde
